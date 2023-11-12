@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: max-content;
+  height: max-content;
+  margin: auto;
+}
+
+.flex {
+  width: 200px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.padding {
+  padding: 10px;
+}
